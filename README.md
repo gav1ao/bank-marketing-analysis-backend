@@ -88,6 +88,12 @@ Durante o desenvolvimento, recomenda-se executar a aplicação utilizando o par�
 flask run --host 0.0.0.0 --port 8080 --reload
 ```
 
+Execute os testes unitários através do comando
+
+```sh
+python -m pytest
+```
+
 ## Contribuição
 
 Contribuições são bem-vindas! Siga os passos abaixo:
